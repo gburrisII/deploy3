@@ -412,6 +412,7 @@ nav {
   text-decoration: none;
   font-family: "Archivo Black", sans-serif;
   color: black;
+  /* padding: 0%; */
 }
 .services-off-screen-menu {
   position: relative;
